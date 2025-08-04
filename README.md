@@ -26,7 +26,7 @@ python -m venv .venv \&\& .\\.venv\\Scripts\\Activate
 
 pip install -r requirements.txt
 
-uvicorn fastapi\_shop\_api.main:app --reload
+uvicorn fastapi_shop_api.main:app --reload
 
 
 
