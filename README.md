@@ -22,7 +22,7 @@ git clone https://github.com/Tesfa37/fastapi-shop-api
 
 cd fastapi-shop-api
 
-python -m venv .venv \&\& .\\.venv\\Scripts\\Activate
+python -m venv .venv && .\.venv\Scripts\Activate
 
 pip install -r requirements.txt
 
